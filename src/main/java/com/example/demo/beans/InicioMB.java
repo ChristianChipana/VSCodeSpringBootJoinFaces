@@ -18,7 +18,7 @@ public class InicioMB implements Serializable {
 
     Logger logger = LoggerFactory.getLogger(InicioMB.class);
 
-    private String holaMundo = "Inicial";
+    private String holaMundo = "Inicial otro saludo";
 
     @PostConstruct
     public void init() {
