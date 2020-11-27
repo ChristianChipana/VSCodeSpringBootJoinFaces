@@ -18,7 +18,7 @@ public class InicioMB implements Serializable {
 
     Logger logger = LoggerFactory.getLogger(InicioMB.class);
 
-    private String holaMundo = "Inicial otro saludo cambio en proxy3 !";
+    private String holaMundo = "Inicial otro saludo cambio en proxy22!";
 
     @PostConstruct
     public void init() {
